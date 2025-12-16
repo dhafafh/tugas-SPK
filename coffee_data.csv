@@ -1,0 +1,31 @@
+ID,Jenis Kopi,Aroma,Acidity,Body,Flavor,Aftertaste,Aman Lambung
+1,Arabika Sumatra,4,3,4,4,3,Ya
+2,Arabika Jawa,4,3,3,4,3,Ya
+3,Arabika Sulawesi,4,4,3,4,4,Tidak
+4,Robusta Vietnam,5,4,4,4,3,Tidak
+5,Robusta Indonesia,5,3,4,3,3,Tidak
+6,Arabika Colombia,4,3,3,4,3,Ya
+7,Arabika Ethiopia,4,4,3,3,3,Tidak
+8,Arabika Kenya,4,3,3,4,3,Ya
+9,Arabika Guatemala,4,3,4,4,4,Tidak
+10,Robusta Cameroon,5,4,4,3,3,Tidak
+11,Arabika Panama,4,3,3,4,3,Ya
+12,Arabika Peruvian,4,3,4,4,3,Ya
+13,Robusta Ivory Coast,5,4,3,3,3,Tidak
+14,Arabika Mexican,4,2,3,4,3,Ya
+15,Arabika Brazilian,4,3,4,4,3,Ya
+16,Robusta Laos,5,4,4,3,2,Tidak
+17,Arabika Rwanda,4,3,3,4,3,Ya
+18,Arabika Tanzania,4,3,4,3,3,Ya
+19,Robusta India,5,3,4,3,3,Tidak
+20,Arabika Costa Rica,4,3,3,4,3,Ya
+21,Arabika Papua,4,3,4,4,3,Ya
+22,Arabika El Salvador,4,3,3,4,3,Ya
+23,Robusta Myanmar,5,4,4,3,3,Tidak
+24,Arabika Honduras,4,3,4,4,3,Ya
+25,Arabika Uganda,4,3,3,3,3,Ya
+26,Robusta Timor Leste,5,4,4,3,3,Tidak
+27,Arabika Burundi,4,3,3,4,3,Ya
+28,Arabika Zimbabwe,4,3,3,4,3,Ya
+29,Robusta Ghana,5,4,4,3,3,Tidak
+30,Arabika Malawi,4,3,3,4,3,Ya
