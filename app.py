@@ -147,4 +147,4 @@ with st.expander("Metodologi"):
     - Voting: Majority vote
     """)
 
-st.footer("KNN Sistem Rekomendasi Kopi Indonesia | Dec 2025")
+st.markdown("KNN Sistem Rekomendasi Kopi Indonesia | Dec 2025")
